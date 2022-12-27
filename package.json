@@ -1,8 +1,13 @@
 {
-	"author": "NGOSSO EBENE Adolphe Kevin",
+  "author": "NGOSSO EBENE Adolphe Kevin",
 	"name": "fcc-learn-npm-package-json",
+  "keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+  "description": "A project that does something awesome",
+  "license": "MIT",
+  "version": "1.2.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"package-name": "version",
+    "express": "4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
